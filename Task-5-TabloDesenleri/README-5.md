@@ -1,8 +1,5 @@
-
-        System.out.println("2'nin Çarpım Tablosu");
-        System.out.println("--------------------");
-
-        for (int i = 1; i <= 10; i++) {
-            System.out.println("2 x " + i + " = " + (2 * i));
-        }
-    
+Bu Java programları, temel matematiksel hesaplamaları ve sonuçları tablo hâlinde ekrana yazdırmayı öğretir.
+İlk program, 1’den 5’e kadar sayıların karesini ve küpünü hesaplar ve listeler.
+İkinci program, belirli mil değerlerini kilometreye çevirerek tablo formatında gösterir.
+Üçüncü program ise 2’nin çarpım tablosunu 1’den 10’a kadar ekrana yazdırır.
+Programlar, döngüler ve basit çarpma işlemleri kullanarak düzenli ve anlaşılır çıktılar sunar.
