@@ -1,0 +1,8 @@
+    System.out.println("Sayı\tKaresi\tKüpü");
+        System.out.println("----------------------");
+
+        for (int a = 1; a <= 5; a++) {
+            int kare = a * a;
+            int kup = a * a * a;
+            System.out.println(a + "\t" + kare + "\t" + kup);
+        }
