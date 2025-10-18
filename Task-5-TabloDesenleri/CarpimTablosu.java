@@ -1,8 +1,9 @@
-    System.out.println("Sayı\tKaresi\tKüpü");
-        System.out.println("----------------------");
 
-        for (int a = 1; a <= 5; a++) {
-            int kare = a * a;
-            int kup = a * a * a;
-            System.out.println(a + "\t" + kare + "\t" + kup);
+        System.out.println("2'nin Çarpım Tablosu");
+        System.out.println("--------------------");
+
+        for (int i = 1; i <= 10; i++) {
+            System.out.println("2 x " + i + " = " + (2 * i));
         }
+    
+
